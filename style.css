@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: red;
+    font-weight: bold;
+  }
+  body img{
+    float: left;
+    border: 3px solid white;
+    width: 35%;
+    height: 20%;
+  }
+  .pic{
+    text-align: center;
+    color: blue;
+    font-size: 140%;
+  }
+  #header{
+    color: pink;
+    text-align: center;
+  }
+  .header {
+    text-align: center;
+    padding: 10px 16px;
+    background: gray;
+    color: white;
+  }
+  a{
+    text-decoration: none;
+    border-bottom: 3px solid green
+  }
+  a:hover{
+    border-bottom: 0px solid green
+  }
